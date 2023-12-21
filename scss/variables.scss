@@ -1,0 +1,7 @@
+/**
+ * Variables referencing custom properties.
+ */
+
+@use "defaults";
+
+$gap: var(--graupl-gap, defaults.$gap);
