@@ -2,8 +2,10 @@
   "name": "@graupl/base",
   "version": "1.0.0",
   "description": "Base dependencies for Graupl components.",
-  "main": "scss/variables.scss",
-  "scripts": {},
+  "main": "scss/base.scss",
+  "scripts": {
+    "build": "sass scss/base.scss css/base.css"
+  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/Graupl/base.git"
@@ -16,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Graupl/base/issues"
   },
-  "homepage": "https://github.com/Graupl/base#readme"
+  "homepage": "https://github.com/Graupl/base#readme",
+  "devDependencies": {
+    "sass": "^1.69.5"
+  }
 }
