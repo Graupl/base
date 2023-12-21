@@ -4,7 +4,7 @@
   "description": "Base dependencies for Graupl components.",
   "main": "scss/base.scss",
   "scripts": {
-    "build": "sass scss/base.scss css/base.css"
+    "build": "sass scss:css"
   },
   "repository": {
     "type": "git",
