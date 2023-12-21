@@ -1,3 +1,3 @@
 # @graupl/base
 
-The base package for Graupl.
+Base dependencies for Graupl components.

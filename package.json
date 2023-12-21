@@ -1,0 +1,20 @@
+{
+  "name": "@graupl/base",
+  "version": "1.0.0",
+  "description": "Base dependencies for Graupl components.",
+  "main": "scss/variables.scss",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Graupl/base.git"
+  },
+  "keywords": [
+    "graupl"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Graupl/base/issues"
+  },
+  "homepage": "https://github.com/Graupl/base#readme"
+}
